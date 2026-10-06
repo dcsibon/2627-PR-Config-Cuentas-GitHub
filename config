@@ -1,0 +1,11 @@
+Host github-dcsibon
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes
+
+Host github-dcanoIESRA
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_dcanoIESRA
+    IdentitiesOnly yes
