@@ -1,0 +1,5 @@
+[user]
+    name = dcsibon
+    email = 70104029+dcsibon@users.noreply.github.com
+[core]
+	sshCommand = ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes	

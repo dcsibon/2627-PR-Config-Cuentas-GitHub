@@ -1,0 +1,5 @@
+[user]
+    name = dcanoIESRafaelAlberti
+    email = 146941100+dcanoIESRafaelAlberti@users.noreply.github.com
+[core]
+	sshCommand = ssh -i ~/.ssh/id_ed25519_dcanoIESRA -o IdentitiesOnly=yes

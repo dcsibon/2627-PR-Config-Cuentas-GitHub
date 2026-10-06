@@ -1,0 +1,13 @@
+[init]
+    defaultBranch = main
+
+[user]
+    useConfigOnly = true
+
+[includeIf "gitdir/i:C:/Projects/dcsibon/"]
+    path = ~/.gitconfig-dcsibon
+
+[includeIf "gitdir/i:C:/Projects/dcanoIESRA/"]
+    path = ~/.gitconfig-dcanoIESRA
+[core]
+	editor = 'C:\\Program Files\\Notepad++\\notepad++.exe' -multiInst -notabbar -nosession -noPlugin
